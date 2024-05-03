@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "mongoURI": "mongodb+srv://korolchuuuk:AEqDbN5WugGHc4EU@cluster0.2fbozow.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "JWT_Secret": "ddcbdvucdfbvebuvfbvcvbsdcbdcdbcdvnc msdksdnckdsdjkbdv dv dv ddjdjh"
+}
